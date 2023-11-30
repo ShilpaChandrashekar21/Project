@@ -1,0 +1,6 @@
+2023-11-30 17:31:29.446 +05:30 [INF] https://www.freshtohome.com/fish is working
+2023-11-30 17:31:30.112 +05:30 [INF] https://www.freshtohome.com/poultry is working
+2023-11-30 17:31:30.634 +05:30 [INF] https://www.freshtohome.com/mutton is working
+2023-11-30 17:31:33.226 +05:30 [INF] https://www.freshtohome.com/fillet is working
+2023-11-30 17:31:34.093 +05:30 [INF] https://www.freshtohome.com/ready-to-eat is working
+2023-11-30 17:31:34.751 +05:30 [INF] https://www.freshtohome.com/vegetables is working

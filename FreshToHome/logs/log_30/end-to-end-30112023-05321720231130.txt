@@ -1,0 +1,33 @@
+2023-11-30 17:32:20.291 +05:30 [INF] Searching for : chicken
+2023-11-30 17:32:21.978 +05:30 [INF] Search-Text: chicken
+2023-11-30 17:32:22.339 +05:30 [INF] Buy Online Test success
+2023-11-30 17:32:22.339 +05:30 [INF] Buy Online Test  Passed
+2023-11-30 17:32:25.473 +05:30 [INF] Selected Product: 9
+2023-11-30 17:32:25.943 +05:30 [INF] Clicked on the  Add product button
+2023-11-30 17:32:30.123 +05:30 [INF] Clicked on the  Checkout modal
+2023-11-30 17:32:32.628 +05:30 [INF] Navigating to home page
+2023-11-30 17:32:32.628 +05:30 [INF] Searching for : mutton
+2023-11-30 17:32:34.845 +05:30 [INF] Search-Text: mutton
+2023-11-30 17:32:35.350 +05:30 [INF] Buy Online Test success
+2023-11-30 17:32:35.350 +05:30 [INF] Buy Online Test  Passed
+2023-11-30 17:32:37.678 +05:30 [INF] Selected Product: 8
+2023-11-30 17:32:38.164 +05:30 [INF] Clicked on the  Add product button
+2023-11-30 17:32:41.145 +05:30 [INF] Clicked on the  Checkout modal
+2023-11-30 17:32:43.153 +05:30 [INF] Navigating to home page
+2023-11-30 17:32:43.153 +05:30 [INF] Searching for : prawns
+2023-11-30 17:32:45.498 +05:30 [INF] Search-Text: prawns
+2023-11-30 17:32:46.159 +05:30 [INF] Buy Online Test success
+2023-11-30 17:32:46.159 +05:30 [INF] Buy Online Test  Passed
+2023-11-30 17:32:48.782 +05:30 [INF] Selected Product: 7
+2023-11-30 17:32:49.215 +05:30 [INF] Clicked on the  Add product button
+2023-11-30 17:32:52.720 +05:30 [INF] Clicked on the  Checkout modal
+2023-11-30 17:32:55.461 +05:30 [INF] Navigating to home page
+2023-11-30 17:32:55.461 +05:30 [INF] Searching for : fish
+2023-11-30 17:32:57.432 +05:30 [INF] Search-Text: fish
+2023-11-30 17:32:57.893 +05:30 [INF] Buy Online Test success
+2023-11-30 17:32:57.893 +05:30 [INF] Buy Online Test  Passed
+2023-11-30 17:32:59.724 +05:30 [INF] Selected Product: 10
+2023-11-30 17:33:00.230 +05:30 [INF] Clicked on the  Add product button
+2023-11-30 17:33:04.436 +05:30 [INF] Clicked on the  Checkout modal
+2023-11-30 17:33:10.229 +05:30 [INF] Navigating to home page
+2023-11-30 17:33:10.443 +05:30 [INF] Clicked on the  Cart button

@@ -1,0 +1,21 @@
+2023-11-30 17:32:07.727 +05:30 [INF] Clicked on login button
+2023-11-30 17:32:07.736 +05:30 [INF] Logging for : 1234567890
+2023-11-30 17:32:08.042 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:08.468 +05:30 [INF] Invalid PhoneNumber Login Test success
+2023-11-30 17:32:08.468 +05:30 [INF] InvalidPhoneNumberLoginTest  Passed
+2023-11-30 17:32:08.512 +05:30 [INF] Logging for : 23456
+2023-11-30 17:32:08.607 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:09.058 +05:30 [INF] Invalid PhoneNumber Login Test success
+2023-11-30 17:32:09.058 +05:30 [INF] InvalidPhoneNumberLoginTest  Passed
+2023-11-30 17:32:09.101 +05:30 [INF] Logging for : 4567890123
+2023-11-30 17:32:09.155 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:09.637 +05:30 [INF] Invalid PhoneNumber Login Test success
+2023-11-30 17:32:09.637 +05:30 [INF] InvalidPhoneNumberLoginTest  Passed
+2023-11-30 17:32:09.669 +05:30 [INF] Logging for : 57689
+2023-11-30 17:32:09.725 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:10.279 +05:30 [INF] Invalid PhoneNumber Login Test success
+2023-11-30 17:32:10.279 +05:30 [INF] InvalidPhoneNumberLoginTest  Passed
+2023-11-30 17:32:10.327 +05:30 [INF] Logging for : 345659
+2023-11-30 17:32:10.376 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:10.823 +05:30 [INF] Invalid PhoneNumber Login Test success
+2023-11-30 17:32:10.823 +05:30 [INF] InvalidPhoneNumberLoginTest  Passed

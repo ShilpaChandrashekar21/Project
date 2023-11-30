@@ -1,0 +1,11 @@
+2023-11-30 17:31:38.136 +05:30 [INF] Clicked On Logo
+2023-11-30 17:31:38.839 +05:30 [INF] Clicked On search-bar
+2023-11-30 17:31:40.485 +05:30 [INF] Clicked On search-button
+2023-11-30 17:31:40.704 +05:30 [INF] Header Elements Test for search success
+2023-11-30 17:31:40.705 +05:30 [INF] HeaderElementsTest  Passed
+2023-11-30 17:31:40.822 +05:30 [INF] Clicked On Login button
+2023-11-30 17:31:41.147 +05:30 [INF] Header Elements Test for login success
+2023-11-30 17:31:41.147 +05:30 [INF] HeaderElementsTest  Passed
+2023-11-30 17:31:41.261 +05:30 [INF] Clicked On Cart button
+2023-11-30 17:31:41.556 +05:30 [INF] Header Elements Test for cart success
+2023-11-30 17:31:41.557 +05:30 [INF] HeaderElementsTest  Passed

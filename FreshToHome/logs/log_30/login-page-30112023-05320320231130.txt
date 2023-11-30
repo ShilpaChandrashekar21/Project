@@ -1,0 +1,7 @@
+2023-11-30 17:32:04.955 +05:30 [INF] Clicked on login button
+2023-11-30 17:32:05.143 +05:30 [INF] Entered Phone number
+2023-11-30 17:32:05.249 +05:30 [INF] Clicked on send otp button
+2023-11-30 17:32:05.551 +05:30 [INF] Valid PhoneNumber Login Test success
+2023-11-30 17:32:05.552 +05:30 [INF] ValidPhoneNumberLoginTest  Passed
+2023-11-30 17:32:05.651 +05:30 [INF] Clicked on login using password button
+2023-11-30 17:32:05.710 +05:30 [INF] Clicked on register button

@@ -1,0 +1,13 @@
+2023-11-30 17:30:53.035 +05:30 [INF] Searched-Text
+2023-11-30 17:30:57.116 +05:30 [INF] Selected Product
+2023-11-30 17:30:57.210 +05:30 [INF] Clicked on the  Add product button
+2023-11-30 17:30:57.276 +05:30 [INF] Clicked on the  Cart button
+2023-11-30 17:31:00.312 +05:30 [INF] Clicked on the  My-Cart button
+2023-11-30 17:31:00.380 +05:30 [INF] Clicked on the  Increement button
+2023-11-30 17:31:00.443 +05:30 [INF] Clicked on the  Decreement button
+2023-11-30 17:31:02.695 +05:30 [INF] Clicked on the Continue Shopping button
+2023-11-30 17:31:09.181 +05:30 [INF] Clicked on the  Cart button
+2023-11-30 17:31:10.979 +05:30 [INF] Clicked on the  My-Cart button
+2023-11-30 17:31:12.605 +05:30 [INF] Clicked on the  clear-Cart button
+2023-11-30 17:31:12.888 +05:30 [INF] Cart Page Test success
+2023-11-30 17:31:12.892 +05:30 [INF] CartPageTest  Passed
