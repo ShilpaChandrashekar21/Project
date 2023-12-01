@@ -13,6 +13,9 @@ namespace FreshToHome.tests
     [TestFixture]
     internal class CartPageTest : CoreCodes
     {
+        FreshToHome_HomePage? homePage;
+        ProductDisplayPage? productPage;
+        CartPage? cartPage;
         [Test,Category("End-to-End Testing")]
        
         public void CartOperationsTest()
@@ -26,16 +29,16 @@ namespace FreshToHome.tests
                 .WriteTo.File(fileName, rollingInterval: RollingInterval.Day)
                 .CreateLogger();
 
-            var homePage = new FreshToHome_HomePage(driver);
+            homePage = new FreshToHome_HomePage(driver);
 
-            var productPage = homePage.SearchInput("fish");
+             productPage = homePage.SearchInput("fish");
             Log.Information("Searched-Text");
 
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(3);
             productPage.SelectProductLink("3");
             Log.Information("Selected Product");
 
-            var cartPage = productPage.AddProductLink();
+             cartPage = productPage.AddProductLink();
             Log.Information("Clicked on the  Add product button");
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5); 
             
@@ -55,15 +58,16 @@ namespace FreshToHome.tests
             Log.Information("Clicked on the Continue Shopping button");
 
             homePage.SearchInput("chicken");
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(3); productPage.SelectProductLink("5");
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(3); 
+
+            productPage.SelectProductLink("5");
+            Log.Information("Selected Product");
 
             cartPage.ClickOnCartButton();
             Log.Information("Clicked on the  Cart button");
 
             cartPage.ClickOnMyCartButton();
             Log.Information("Clicked on the  My-Cart button");
-
-            //cartPage.ClickOnDeleteProduct();
 
             cartPage.ClickOnClearCartButton();
             Log.Information("Clicked on the  clear-Cart button");

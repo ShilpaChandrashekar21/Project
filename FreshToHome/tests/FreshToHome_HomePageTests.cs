@@ -30,7 +30,7 @@ namespace FreshToHome.tests
                 .WriteTo.Console()
                 .WriteTo.File(fileName, rollingInterval: RollingInterval.Day)
                 .CreateLogger();
-            driver.Navigate().Refresh();
+            driver?.Navigate().Refresh();
 
             homePage = new FreshToHome_HomePage(driver);
 
