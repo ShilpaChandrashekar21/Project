@@ -19,12 +19,15 @@ namespace FreshToHome.pageObjects
 
         [FindsBy(How = How.ClassName, Using = "menu-cart-icon")]
         private IWebElement? CartButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "//button[@title='Go to Checkout']")]
         private IWebElement CheckOutButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "//button[@title='Go to Cart Page']")]
         private IWebElement? MyCartButton { get; set; }
+         [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "(//span[@class='dn'])[1]")]
         private IWebElement? IncQuantity { get; set; }

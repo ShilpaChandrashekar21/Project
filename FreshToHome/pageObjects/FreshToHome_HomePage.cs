@@ -21,18 +21,23 @@ namespace FreshToHome.pageObjects
 
         [FindsBy(How = How.ClassName, Using = "input-text")]
         private IWebElement? SearchBar { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "//button[@class='button']")]
         private IWebElement? SearchButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.ClassName, Using = "profile-icon")]
         private IWebElement? LoginButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.ClassName, Using = "menu-cart-icon")]
         private IWebElement? CartButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "//div[@class='logo']/a/img")]
         private IWebElement? Logo { get; set; }
+       
 
 
 

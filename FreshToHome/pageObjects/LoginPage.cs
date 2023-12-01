@@ -20,12 +20,15 @@ namespace FreshToHome.pageObjects
 
         [FindsBy(How = How.ClassName, Using = "profile-icon")]
         private IWebElement? LoginButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.Id, Using = "youama-phone")]
         private IWebElement? PhoneNumberInput { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.Id, Using = "sendOtpBtn")]
         private IWebElement? SendOtpButton { get; set; }
+        [CacheLookup]
 
         [FindsBy(How = How.XPath, Using = "//p[@id='y-to-login']")]
         private IWebElement? LogingUsingPasswordButton { get; set; }

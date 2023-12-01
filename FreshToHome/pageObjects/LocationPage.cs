@@ -21,8 +21,9 @@ namespace FreshToHome.pageObjects
        
          [FindsBy(How = How.Id, Using = "currentCity")]
         private IWebElement? LocationButton { get; set; }
+        [CacheLookup]
 
-        
+
         [FindsBy(How = How.XPath, Using = "//button[starts-with(@id,'flagstrap-drop-down')]")]
         private IWebElement? SelectCountryListButton { get; set; }
         //ul[@class='dropdown-menu']/li[2]/a
@@ -37,6 +38,7 @@ namespace FreshToHome.pageObjects
 
         [FindsBy(How = How.XPath, Using = "//input[@type='search']")]
         private IWebElement? Pincode { get; set; }
+
 
 
         public void ClickOnLocationButton()
